@@ -2,6 +2,7 @@ function myFunction() {
   document.body.style.overflowY = "hidden";
   document.body.style.overflowX = "hidden";
 }
+
 function disableScrolling() {
   setTimeout(function () {
     document.body.style.overflowY = "hidden";

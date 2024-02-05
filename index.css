@@ -15,7 +15,7 @@ body {
   overflow: overlay;
 }
 ::-webkit-scrollbar {
-  width: 14px;
+  width: 0px;
 }
 ::-webkit-scrollbar-track {
   color: transparent;
